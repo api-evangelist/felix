@@ -1,0 +1,21 @@
+# Félix
+> Félix es la app financiera diseñada para latinos en Estados Unidos: envía dinero a Latinoamérica, gestiona tu cuenta y construye tu vida financiera en EE.UU.
+
+Félix ayuda a inmigrantes latinos en cada etapa de su camino financiero en Estados Unidos: llegar, vivir y trabajar, enviar dinero, construir crédito, ahorrar e invertir. El producto principal es el envío de remesas a Latinoamérica (México, Guatemala, Honduras, El Salvador, Nicaragua, Colombia, República Dominicana, Ecuador y Perú), con tasas de cambio en tiempo real, sin comisiones ocultas, y soporte en español vía WhatsApp.
+
+## Enviar dinero
+- [Enviar dinero](https://www.felixpago.com/enviar-dinero): Envía dinero a 9 países de Latinoamérica con tasas en tiempo real y sin comisiones ocultas.
+- [Enviar dinero cerca de mí](https://www.felixpago.com/enviar-dinero-cerca-de-mi): Encuentra puntos de retiro en efectivo por ciudad.
+
+## Herramientas
+- [Dólar hoy](https://www.felixpago.com/dolar-hoy): Calculadoras de tipo de cambio en tiempo real para 9 corredores de Latinoamérica.
+
+## Centro de ayuda y contenido
+- [Centro de ayuda](https://www.felixpago.com/ayuda): Preguntas frecuentes sobre cómo usar Félix, seguridad, cuentas y transferencias.
+- [Guías](https://www.felixpago.com/guias): Guías completas sobre remesas, crédito, cuentas bancarias e impuestos para inmigrantes en EE.UU.
+- [Glosario financiero](https://www.felixpago.com/glosario): Definiciones claras de términos financieros y migratorios (ITIN, SSN, remesas, crédito, y más).
+- [Blog](https://www.felixpago.com/blog): Artículos sobre finanzas, trámites migratorios, trabajo y vida en EE.UU. para la comunidad latina.
+
+## Optional
+- [Política de privacidad](https://www.felixpago.com/legal/privacidad)
+- [Términos y condiciones](https://www.felixpago.com/legal/terminos)

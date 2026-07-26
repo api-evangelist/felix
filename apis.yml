@@ -1,8 +1,18 @@
 aid: felix
 name: Felix
-description: Felix is a company surfaced as a portfolio company of general-catalyst, qed-investors and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Félix (Félix Pago) is a US-based fintech building financial services for the
+  Latino community in the United States. Its core product lets users send
+  remittances to Latin America in seconds through a WhatsApp message, with no
+  app download or physical-location visit required, covering 9+ countries
+  including Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Colombia,
+  Dominican Republic, Ecuador and Peru with real-time exchange rates, no hidden
+  fees, over 40,000 cash pickup and deposit locations, and Spanish-language
+  support. Félix is expanding beyond remittances into accounts, credit building,
+  savings and investing for immigrants. Backed by General Catalyst and QED
+  Investors. This profile is maintained in the API Evangelist network; Félix is
+  a consumer-facing service and does not currently publish a public developer
+  API or documentation.
 url: https://raw.githubusercontent.com/api-evangelist/felix/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +21,29 @@ x-backed-by:
 - qed-investors
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://cdn.prod.website-files.com/663002023d3d42ffa6937084/68769b07ed45699b0bd37fd9_og-fe%CC%81lix.png
 tags:
 - Company
+- Fintech
+- Payments
+- Remittances
+- Money Transfer
+- Latin America
+- Financial Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +51,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/felix-domain-security.yml
+- type: LLMsTxt
+  url: llms/felix-llms.txt
 - type: Website
   url: https://www.felixpago.com/en
+- type: Blog
+  url: https://www.felixpago.com/en/blog
+- type: Support
+  url: https://www.felixpago.com/en/help
+- type: TermsOfService
+  url: https://www.felixpago.com/en/legal/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.felixpago.com/en/legal/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
